@@ -1,0 +1,2 @@
+- Hoşgeldin
+-Bu proje, kendi çalışmalarımı sunmak için tasarlanmış bir veritabanıdır.
