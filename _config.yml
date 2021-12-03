@@ -1,1 +1,5 @@
 theme: jekyll-theme-leap-day
+
+git add *
+git commit -m "Set UTF-8"
+git push origin main
